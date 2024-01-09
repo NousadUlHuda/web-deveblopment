@@ -85,12 +85,12 @@ nav a{
 
  /* about section styles */
 
- /*main section styles */
+ 
 
  .about{
     padding: 130px;
     border-radius: 10px;
-    background:#fff8f3 ;
+    background:#ecac7e ;
     margin: 130px 0px;
  }
  .section-title{
@@ -103,4 +103,24 @@ nav a{
     color: #757575;
     text-align: center;
     font-size: 18px;
+ }
+
+ /*main section styles */
+
+ main{
+    max-width: 1140px;
+    margin: 0px auto;
+ }
+
+ .about-info-cointainer{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+ }
+
+ .info-title{
+    margin-bottom: 0px;
+ }
+ .info-description{
+    margin-top: 3px;
  }
