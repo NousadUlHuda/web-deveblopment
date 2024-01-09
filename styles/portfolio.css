@@ -124,3 +124,12 @@ nav a{
  .info-description{
     margin-top: 3px;
  }
+
+ .what{
+    padding: 30px 150px;
+ }
+
+ .skills-container{
+    display: flex;
+    text-align: center;
+ }
