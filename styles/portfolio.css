@@ -131,5 +131,14 @@ nav a{
 
  .skills-container{
     display: flex;
-    text-align: center;
+    gap: 24px;
+    
+ }
+
+ .skill{
+    padding: 30px;
+    border-radius: 5px;
+    background: #757575;
+    box-shadow: #670afd;
+    
  }
